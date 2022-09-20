@@ -13,3 +13,9 @@ Meus códigos inteiros ou trechos deles podem ser usados por todos, sem restriç
 * [Algoritmos e Estruturas de Dados 2](https://github.com/CamisLopes/AED-2)
 * [Arquitetura de Computadores 1]
 * [Introdução a Sistemas Inteligentes]
+
+## Período 3
+* [Algoritmos e Estruturas de Dados 3]
+* [Arquitetura de Computadores 2]
+* [Linguagens de Programação]
+
