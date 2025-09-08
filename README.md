@@ -1,4 +1,10 @@
-# CC_PUC_MG
+<div align="center">
+  <h1>
+  ✨ Ciência da Computação ✨
+    
+  Pontifícia Universidade Católica de Minas Gerais
+  </h1>
+</div>
 
 Códigos e projetos feitos durante minha graduação em Ciência da Computação. Cada link se refere a um repositório de uma matéria.
 
@@ -26,6 +32,9 @@ Meus códigos inteiros ou trechos deles podem ser usados por todos, sem restriç
 ## Período 5
 
 ## Período 6
+* [Fundamentos Teóricos da Computação]
+* [Processamento e Análise de Imagem]
+* [Computação Distribuída]
 
 ## Período 7
 * [Computação Gráfica](https://github.com/camilamlopes/Computacao_Grafica)
