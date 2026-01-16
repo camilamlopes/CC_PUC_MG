@@ -34,6 +34,7 @@ ___
 * [Inteligência Artificial](https://github.com/camilamlopes/Inteligencia_Artificial.git)
   
 ## Período 5
+* [Processamento e Análise de Algoritmos](https://github.com/camilamlopes/PAA)
 
 ## Período 6
 * [Fundamentos Teóricos da Computação]
