@@ -21,17 +21,20 @@ ___
 
 ## Período 2
 * [Algoritmos e Estruturas de Dados 2](https://github.com/CamisLopes/AED-2)
-* [Arquitetura de Computadores 1]
+* [Arquitetura de Computadores I]
 * [Introdução a Sistemas Inteligentes]
 
 ## Período 3
 * [Algoritmos e Estruturas de Dados 3](https://github.com/camilamlopes/AED-3)
-* [Arquitetura de Computadores 2]
+* [Arquitetura de Computadores II](https://github.com/camilamlopes/AC2)
 * [Linguagens de Programação]
 
 ## Período 4
+* [Cálculo II](https://github.com/camilamlopes/Calculo_II)
 * [Laboratório de Dispositivos Móveis](https://github.com/camilamlopes/LDDM)
 * [Inteligência Artificial](https://github.com/camilamlopes/Inteligencia_Artificial.git)
+* [Arquitetura de Computadores III](https://github.com/camilamlopes/AC3)
+* [Teoria dos Grafos e Computabilidade]()
   
 ## Período 5
 * [Processamento e Análise de Algoritmos](https://github.com/camilamlopes/PAA)
