@@ -38,8 +38,9 @@ ___
 
 ## Período 6
 * [Fundamentos Teóricos da Computação]
-* [Processamento e Análise de Imagem]
-* [Computação Distribuída]
+* [Processamento e Análise de Imagem](https://github.com/camilamlopes/PAI)
+* [Computação Distribuída](https://github.com/camilamlopes/Comp_Distribuida)
+* [Computação Paralela](https://github.com/camilamlopes/CP)
 
 ## Período 7
 * [Computação Gráfica](https://github.com/camilamlopes/Computacao_Grafica)
