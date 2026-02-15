@@ -47,3 +47,6 @@ ___
 
 ## Período 7
 * [Computação Gráfica](https://github.com/camilamlopes/Computacao_Grafica)
+* [Compiladores](https://github.com/camilamlopes/Compiladores)
+
+## Período 8
